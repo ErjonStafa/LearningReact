@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "July 08, 2022 12:52:56 PM",
+      "body": "Lorem ipsum dolor sit amet, singulis splendide ex sed, mea id vitae gubergren vituperata. Ad suscipit copiosae salutandi eum. Ut oratio aperiri menandri mea. Te quot persecuti constituam eam, vim errem quodsi abhorreant id."
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet, singulis splendide ex sed, mea id vitae gubergren vituperata. Ad suscipit copiosae salutandi eum. Ut oratio aperiri menandri mea. Te quot persecuti constituam eam, vim errem quodsi abhorreant id. Omnes accusam nec in."
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet, singulis splendide ex sed, mea id vitae gubergren vituperata. Ad suscipit copiosae salutandi eum. Ut oratio aperiri menandri mea. Te quot persecuti constituam eam, vim errem quodsi abhorreant id. Omnes accusam nec in."
+    }
+  ]
+}
